@@ -23,7 +23,7 @@ O site foi estruturado seguindo o wireframe proposto, contendo:
 2.  **Seção de Conscientização:** Explicação sobre "Armadilhas Invisíveis" e dados sobre acidentes.
 3.  **Tutorial de Descarte (4 Passos):**
     * 📦 Como embalar vidros e louças.
-    * bottle Como usar garrafas PET para agulhas e pontiagudos.
+    * 🧴 Como usar garrafas PET para agulhas e pontiagudos.
     * 🏷️ A importância da identificação (etiquetas).
     * 🥫 Cuidados com tampas de latas serrilhadas.
 4.  **Rodapé:** Informações de contato e créditos.
